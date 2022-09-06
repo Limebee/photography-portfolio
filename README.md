@@ -1,5 +1,5 @@
 # Photography Portfolio
-The is a portfolio website for a photographer. Users can view their work and find their contact information.
+The is a portfolio website for photographer Kaiya Burch. Users can view their work and find their contact information.
 
 <strong>Link to Project:</strong> https://kaiyaburch.netlify.app
 
