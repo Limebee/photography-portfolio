@@ -7,7 +7,7 @@ The is a portfolio website for a photographer. Users can view their work and fin
 
 # How It's Made:
 <strong>Tech used:</strong> HTML, CSS, JavaScript
-I 
+
 
 #Optimizations
 
